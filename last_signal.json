@@ -1,0 +1,13 @@
+{
+  "symbol": "BTCUSDT",
+  "timeframe": "5m",
+  "direction": "SELL",
+  "entry": "65491",
+  "sl": "65891",
+  "tp": "64691",
+  "votes": "2 YES / 1 NO",
+  "chatgpt": "YES \u2192 Entry: 65491 | SL: 65891 | TP: 64691",
+  "grok": "YES \u2192 Entry: 65481 | SL: 65791 | TP: 64591",
+  "deepshik": "NO \u2192 Entry: \u2014 | SL: \u2014 | TP: \u2014",
+  "timestamp": "2025-06-25T08:15:48.188008"
+}
